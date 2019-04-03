@@ -3,11 +3,11 @@ Geospatial_IP. Jupyter notebooks about basic Image processing for Geospatial app
 
 ## Structure:
 ### **Preprocesado.(Preprocessing)**
-	* Conceptos b·sicos: Histograqma, rango din·mico, contraste, FunciÛn de trasnferencia (LUT).
-	* IntroducciÛn a las librerÌas de Python:
+	* Conceptos b√°sicos: Histograqma, rango din√°mico, contraste, Funci√≥n de trasnferencia (LUT).
+	* Introducci√≥n a las librer√≠as de Python:
 		* Repaso: listas,  
-	* Apps: CorrecciÛn del ruido, defectos del sensor, transformaciones geomÈtricas y radiomÈtricas de punto. 
-### ** Mejora de la imagen.(Image enhancement)**
+	* Apps: Correcci√≥n del ruido, defectos del sensor, transformaciones geom√©tricas y radiom√©tricas de punto. 
+### **Mejora de la imagen.(Image enhancement)**
 	* Mejora del contraste
 	* Histogram matching
 	* Filtrado espacial
